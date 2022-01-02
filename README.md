@@ -19,6 +19,7 @@ Reviews can be given to the model and it classifies the review as a negative rev
 - In Python IDE use >python app.py
 - You will be connected to the local host
 - Copy paste the url (Ex: http://127.0.0.1:5000/) in the local browser to test
+<img src= "Report Documents/Screenshot (468).png">
 
 
 
