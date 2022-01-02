@@ -13,6 +13,14 @@ Reviews can be given to the model and it classifies the review as a negative rev
 
 # [COLAB LINK](https://colab.research.google.com/drive/1X4T6SLzLkZ5kBIr4dI7MjuTBX0pjSDHp?usp=sharing)
 
+# TESTING USING HEROKU
+
+- After Installing all the packaged from Requirements.txt
+- In Python IDE use >python app.py
+- You will be connected to the local host
+- Copy paste the url (Ex: http://127.0.0.1:5000/) in the local browser to test
+
+
 
 
 
